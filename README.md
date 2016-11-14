@@ -48,7 +48,7 @@ Basically you have to import the *StarCitizen.pr0* into the Saitek Editor and ac
 2. Open Saitek Profile Editor and import the *StarCitizen.pr0*.
 3. Activate the profile.
 4. Copy *layout_JoystickSaitekX52_SC.xml* to your *STAR_CITIZEN_INSTALL_FOLDER\Public\USER\Controls\Mappings\*.
-5. In Star Citizen go to Options -> Keymapping -> Youstick -> advanced.
+5. In Star Citizen go to Options -> Keymapping -> Yoystick -> advanced.
  - Import Profile *JoystickSaitekX52* and map it to you joystick.
 6. Enjoy.
 
