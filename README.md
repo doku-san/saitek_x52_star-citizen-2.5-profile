@@ -4,12 +4,15 @@
 
 The purpose is to cover almost all functions Star Citizen provide with the **Saitek X52 Flight Control System** (HOTAS).
 
-
-This Profile is claimed as "alpha" and in continous development.
-
 Current **Star Citizen Version**: Alpha 2.5.
 
 
+## Disclaimer
+
+
+This Profile is claimed as "alpha" and in continous development. You might use it on your own risk. 
+
+Also there might be missing a lot of functions. I am not the best pilot and since now i can only test on an Aurora. This ship is very buggy and limitated in 2.5. There is no HUD, shield levels can't be assigned and so on. Some functions I just don't understand yet (due to function-limitation of my Aurora or brain-limitation of myself).
 
 
 ## What's in?
