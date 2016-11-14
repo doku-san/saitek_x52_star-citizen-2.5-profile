@@ -1,4 +1,4 @@
-**# README
+# README - Saitek X52 Star Citizen Profile
 
 ## Purpose
 
@@ -48,3 +48,8 @@ Basically you have to import the *StarCitizen.pr0* into the Saitek Editor and ac
 5. In Star Citizen go to Options -> Keymapping -> Youstick -> advanced.
  - Import Profile *JoystickSaitekX52* and map it to you joystick.
 6. Enjoy.
+
+## Thanks and Comments
+Thank to the Citizen [R-M-C](https://forums.robertsspaceindustries.com/profile/166490/R-M-C), who inspired me in [this threat](https://forums.robertsspaceindustries.com/discussion/216133/saitek-x52-pro-key-mapping-templates-profiles-v-2-0/p1) to adapt his X52 Pro Template to the *normal* X52.
+
+Maybe there are some german words in the profile ... you can keep them :)
