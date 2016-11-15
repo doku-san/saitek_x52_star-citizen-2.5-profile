@@ -6,6 +6,8 @@ The purpose is to cover almost all functions Star Citizen provide with the **Sai
 
 Current **Star Citizen Version**: Alpha 2.5.
 
+You can find the discussion in the forum on [https://forums.robertsspaceindustries.com/discussion/355717/download-saitek-x52-profile-mapping-fight-mode-plus-advanced-controls-with-pinkie-switch](https://forums.robertsspaceindustries.com/discussion/355717/download-saitek-x52-profile-mapping-fight-mode-plus-advanced-controls-with-pinkie-switch)
+
 
 ## Disclaimer
 
