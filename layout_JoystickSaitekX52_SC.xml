@@ -1,4 +1,4 @@
-<!-- Saitek X52PRO v.2.0 mapping by R-M-C -->
+<!-- Saitek X52 v.1.0 mapping by raven extends Saitek X52Pro mapping by R-M-C -->
 <ActionMaps version="1" optionsVersion="2" rebindVersion="2" profileName="JoystickSaitekX52">
  <CustomisationUIHeader label="JoystickSaitekX52" description="" image="">
   <devices>
@@ -96,22 +96,22 @@
    <rebind input=""/>
   </action>
   <action name="v_view_pitch">
-   <rebind input=""/>
+   <rebind input="js1_y"/>
   </action>
   <action name="v_view_pitch_down">
-   <rebind input="js1_lalt+hat1_down"/>
-  </action>
-  <action name="v_view_pitch_up">
-   <rebind input="js1_lalt+hat1_up"/>
-  </action>
-  <action name="v_view_yaw">
    <rebind input=""/>
   </action>
+  <action name="v_view_pitch_up">
+   <rebind input=""/>
+  </action>
+  <action name="v_view_yaw">
+   <rebind input="js1_x"/>
+  </action>
   <action name="v_view_yaw_right">
-   <rebind input="js1_lalt+hat1_right"/>
+   <rebind input=""/>
   </action>
   <action name="v_view_yaw_left">
-   <rebind input="js1_lalt+hat1_left"/>
+   <rebind input=""/>
   </action>
   <action name="v_view_dynamic_focus_out">
    <rebind input="js1_slider1"/>
